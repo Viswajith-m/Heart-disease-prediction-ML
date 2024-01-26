@@ -12,6 +12,6 @@ This following projects involves 11 steps
 
 
 
-##Problem Definition
+## Problem Definition
 
-predict the likelihood of heart disease based on certain features.
+Predict the likelihood of heart disease based on certain features.
