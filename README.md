@@ -14,4 +14,5 @@ This following projects involves 11 steps
 
 ## Problem Definition
 
-Predict the likelihood of heart disease based on certain features.
+**Problem Definition:**
+The aim of this project is to develop a machine learning model that can predict the likelihood of an individual having heart disease based on various health-related features. The model will be trained on a dataset containing information such as age, gender, cholesterol levels, blood pressure, and other relevant factors. The primary objective is to create a reliable and accurate predictive tool that can assist in early identification and intervention for individuals at risk of heart disease, ultimately contributing to improved healthcare outcomes.
