@@ -1,5 +1,4 @@
 # Heart-disease-prediction-ML
-This following projects involves 11 steps
 1. [Problem Definition](#problemdefinition)
 2. [Data Collection](#dataset)
 3. [Data Preprocessing](#datapreprocessing)
